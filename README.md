@@ -1,8 +1,23 @@
-# Dependency Walker (Nuitka-совместимая версия)
+<div align="center">
 
-**Depends** – портативная версия классического Dependency Walker, проверенная на совместимость с Nuitka-сборками.
+<p align="center">
+  <img src="logo.png" width="256" alt="Depends">
+</p>
 
-## Зачем это нужно
+<br>
+
+<h1>Dependency Walker (Nuitka-совместимая версия)</h1>
+<h4>Depends – портативная версия классического Dependency Walker, проверенная на совместимость с Nuitka-сборками.</h4>
+
+
+![Nuitka](https://img.shields.io/badge/Nuitka-2D2D2D?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+<br>
+
+## ❓ Зачем это нужно
 
 При компиляции Python-скриптов через Nuitka могут возникать проблемы с отсутствующими DLL-зависимостями. Но с официального сайта не всегда получается скачать нужные зависимости нужной версии. Поэтому я и выкладываю актуальную версию под Nuitka.
 
@@ -10,6 +25,8 @@
   <img src="error.png" width="700" alt="Пример ошибки компиляции">
   <br><em>Пример ошибки компиляции</em>
 </p>
+
+
 
 > [!IMPORTANT]
 >
