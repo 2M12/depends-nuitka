@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="logo.png" width="256" alt="Depends">
+  <img src="assets/logo.png" width="256" alt="Depends">
 </p>
 
 <br>
@@ -22,7 +22,7 @@
 При компиляции Python-скриптов через Nuitka могут возникать проблемы с отсутствующими DLL-зависимостями. Но с официального сайта не всегда получается скачать нужные зависимости нужной версии. Поэтому я и выкладываю актуальную версию под Nuitka.
 
 <p align="center">
-  <img src="error.png" width="700" alt="Пример ошибки компиляции">
+  <img src="assets/error.png" width="700" alt="Пример ошибки компиляции">
   <br><em>Пример ошибки компиляции</em>
 </p>
 
