@@ -1,0 +1,50 @@
+DEPENDENCY WALKER (DEPENDS.EXE)
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+This software is proprietary and closed-source. It is distributed as
+freeware for personal and commercial use, but it remains the intellectual
+property of Microsoft Corporation.
+
+TERMS OF ARCHIVE DISTRIBUTION
+
+This repository serves as a non-commercial archive of the original,
+unmodified Dependency Walker executable, provided for the following
+purposes:
+
+1. To assist developers working with Nuitka-compiled executables
+   in analyzing DLL dependencies.
+
+2. To provide access to this tool when the official website is
+   unavailable or non-functional.
+
+3. To support the open-source community in troubleshooting
+   missing or corrupted DLL issues.
+
+RESTRICTIONS
+
+You may NOT:
+
+- Modify, reverse engineer, or decompile the software.
+- Claim authorship or ownership of the software.
+- Sell, license, or commercially distribute the software without
+  explicit permission from Microsoft Corporation.
+- Remove or alter any copyright notices or attributions.
+
+DISCLAIMER
+
+This software is provided "AS IS" without warranty of any kind,
+express or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose, and non-infringement.
+
+The maintainers of this repository claim no ownership over
+Dependency Walker. All trademarks and copyrights belong to their
+respective owners.
+
+If you are the copyright holder and wish for this repository to be
+removed, please open an issue, and it will be taken down immediately.
+
+---
+
+For the original software, please refer to:
+http://www.dependencywalker.com/ (currently unavailable)
+https://web.archive.org/web/*/dependencywalker.com
